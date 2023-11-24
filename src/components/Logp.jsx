@@ -1,11 +1,15 @@
-import image from "./img/Flight.jpg"; 
+
 import React ,{useState} from "react";
 import { Link } from "react-router-dom";
 import * as Components from '../Components';
-
+import Top from './Top'
 function Combine() {
+
   const [signIn, toggle] = React.useState(true);
   return (
+    <>
+    <Top />
+   
     <Components.Container>
              <Components.SignUpContainer signinIn={signIn}>
                  <Components.Form>
@@ -23,7 +27,9 @@ function Combine() {
                       <Components.Input type='email' placeholder='Email' />
                       <Components.Input type='password' placeholder='Password' />
                       <Components.Anchor href='#'>Forgot your password?</Components.Anchor>
+                      <Link to="/">
                       <Components.Button >Sigin In</Components.Button>
+                      </Link>
                   </Components.Form>
              </Components.SignInContainer>
 
@@ -54,7 +60,8 @@ function Combine() {
              </Components.OverlayContainer>
 
          </Components.Container>
-    
+        
+         </>
     
   );
 }

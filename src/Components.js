@@ -2,9 +2,9 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
 background-color: #fff;
-border-radius: 100px;
+border-radius: 10px;
 box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-right: 40%;
+right: 35%;
 left: 33%;
 top: 25%;
 position: absolute;
@@ -61,7 +61,7 @@ margin: 0;
 
 export const Input = styled.input`
 background-color: #eee;
-border: none;
+border: 2px;
 padding: 12px 15px;
 margin: 8px 0;
 width: 100%;
