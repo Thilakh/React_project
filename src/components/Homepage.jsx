@@ -164,14 +164,14 @@ const Homepage = () => {
                 position: "absolute",
                 marginTop: "5%",
                 width: "200px",
-                marginLeft: "33%",
+                marginLeft: "37%",
                 height: "65px",
                 fontSize: "20px",
               }}
             ></input>
           </div>
           <div>
-            <input
+            {/* <input
               type="date"
               placeholder="return"
               style={{
@@ -182,7 +182,7 @@ const Homepage = () => {
                 height: "65px",
                 fontSize: "20px",
               }}
-            ></input>
+            ></input> */}
           </div>
           <div style={{ display: "flex", justifyContent: "center" }}>
             <Button

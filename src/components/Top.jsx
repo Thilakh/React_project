@@ -52,9 +52,9 @@ export default function ButtonAppBar() {
             Home
             </Button>
             </Link>
-            <Link to="/tour">
+            <Link to="/about">
             <Button color="inherit" style={{color:'white'}}>
-            Tour
+            About
             </Button>
             </Link>
           </Typography>
