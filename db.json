@@ -1,9 +1,149 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
-  }
+  "user": [
+    {
+      "id": "nfd",
+      "name": "dvnbvvv",
+      "password": "eef",
+      "email": "22ue@gmail.com",
+      "phone": "8888888888",
+      "country": "india",
+      "address": "duyd",
+      "gender": "female"
+    },
+    {
+      "id": "gw",
+      "name": "rwgmogrn",
+      "password": "wrgrgg",
+      "email": "22it76@gmail.com",
+      "phone": "1234554321",
+      "country": "india",
+      "address": "nfiegbg",
+      "gender": "male"
+    },
+    {
+      "id": "gwgg",
+      "name": "gkbnkndf",
+      "password": "grrgrg",
+      "email": "2256@gmail.com",
+      "phone": "123456789",
+      "country": "india",
+      "address": "gfgs",
+      "gender": "female"
+    },
+    {
+      "id": "dbjvbvda",
+      "password": "hbdcac",
+      "email": "22it@gmail.com"
+    },
+    {
+      "id": "thilakh",
+      "password": "123456",
+      "email": "thilakh2004@gmail.com"
+    },
+    {
+      "id": "fubda",
+      "name": "ohdv",
+      "password": "hhduvb",
+      "email": "thsb@mail.com",
+      "phone": "123456785",
+      "country": "india",
+      "address": "vvd",
+      "gender": "female"
+    },
+    {
+      "id": "agga",
+      "password": "34th",
+      "email": "fsbb@gmail.com"
+    },
+    {
+      "id": "thilo",
+      "password": "mairu",
+      "email": "123@gmail.com"
+    },
+    {
+      "id": "vaibhav",
+      "password": "34567",
+      "email": "456@gmai.com"
+    },
+    {
+      "id": "thiasfh",
+      "password": "12345",
+      "email": "445@gmail.com"
+    },
+    {
+      "id": "thanud",
+      "password": "789",
+      "email": "459@gmail.com"
+    },
+    {
+      "id": "sgg",
+      "password": "3456",
+      "email": "465657@gmail.com"
+    },
+    {
+      "id": "abcd ",
+      "password": "890",
+      "email": "abcd@gmail.com"
+    },
+    {
+      "id": "shsvbsg",
+      "password": "9807",
+      "email": "th@gmail.com"
+    },
+    {
+      "id": "pravenn",
+      "password": "4567",
+      "email": "73@gmail.com"
+    },
+    {
+      "id": "viswa",
+      "password": "12345",
+      "email": "67@gmail.com"
+    },
+    {
+      "id": "ravi7",
+      "password": "789",
+      "email": "ravi7@gmail.com"
+    },
+    {
+      "id": "rygf",
+      "password": "908",
+      "email": "gfb@gmail.com"
+    },
+    {
+      "id": "ravi8",
+      "password": "234",
+      "email": "ravi7@gmail.com"
+    },
+    {
+      "id": "vidur",
+      "password": "678",
+      "email": "22it@gmail.com"
+    },
+    {
+      "id": "jkeuhfdg",
+      "password": "567egfuieg",
+      "email": "ygds@gmail.com"
+    },
+    {
+      "id": "gdfsd",
+      "password": "342r",
+      "email": "ydgs@gmail.com"
+    },
+    {
+      "id": "sarve",
+      "password": "456",
+      "email": "23@gmail.com"
+    },
+    {
+      "id": "ergrg",
+      "password": "thila",
+      "email": "345@gmail.com"
+    },
+    {
+      "id": "revi",
+      "password": "7474",
+      "email": "she@12gmail.com"
+    }
+  ]
+}
