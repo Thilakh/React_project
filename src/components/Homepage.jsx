@@ -16,7 +16,7 @@ import MenuItem from "@mui/material/MenuItem";
 import FormControl from "@mui/material/FormControl";
 import Select from "@mui/material/Select";
 import "./homepage.css";
-
+import Footer from "./Footer";
 import { Button } from "@mui/material";
 import Homepage3 from "./Homepage3";
 import SyncAlt from "@mui/icons-material/SyncAlt";
@@ -207,7 +207,7 @@ const Homepage = () => {
       <Homepage2></Homepage2>
       <Homepage3></Homepage3>
       <Homepage4></Homepage4>
-      
+      <Footer />
     </>
   );
 };
