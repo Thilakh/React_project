@@ -8,11 +8,13 @@ import { userContext } from './components/Context';
 import { useState } from 'react';
 import { createBrowserRouter } from "react-router-dom";
 import Home from "./components/Homepage";
+import Tickets from './components/Tickets';
 
 const router =createBrowserRouter([
   {path:"/",element:<Home />},
   {path:"/login",element:<Combine />},
   {path:"/about",element:<About />},
+  {path:"/tickets",element:<Tickets />},
 ]);
 function App() {
   const[user,setuser]=useState("");

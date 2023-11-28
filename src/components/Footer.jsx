@@ -54,23 +54,7 @@ const Footer = () => {
             intelligence, machine learning, and data science led innovations on
             our OTA platforms, comprising our websites and mobile applications.
             Our vision is to become the most customer-centric travel company, by
-            offering the best customer experience to our users. Our focus on
-            travel utility and customer experience for travellers in the 'next
-            billion user' segment is driven by technology, cost-efficiency and
-            our culture of innovation has made us India's leading travel
-            ecosystem for the 'next billion users'. Our OTA platforms allow
-            travellers to book train tickets, flight tickets, bus tickets,
-            hotels and cabs, while providing travel utility tools and services
-            developed using in-house proprietary algorithms and crowd-sourced
-            information, including train PNR status and confirmation
-            predictions, train seat availability alerts, train running status
-            updates and delay predictions, flight status updates, bus running
-            status, pricing and availability alerts, deal discovery, destination
-            content, personalized recommendations, instant fare alerts, and
-            automated customer support services. Read our travel stories where
-            we cover everything – flight news, latest travel news, Indian
-            Railways reservation updates, COVID-19 travel guidelines and
-            restrictions and more. Let us help you plan your next vacation.
+            offering the best customer experience to our users. 
             Explore our website today.
           </p>
           <hr style={{ width: "10px" }}></hr>
@@ -81,42 +65,12 @@ const Footer = () => {
             focus on travel utility and customer experience for travellers in
             the 'next billion user' segment is driven by technology,
             cost-efficiency and our culture of innovation has made us India's
-            leading travel ecosystem for the 'next billion users'. Our OTA
-            platforms allow travellers to book train tickets, flight tickets,
-            bus tickets, hotels and cabs, while providing travel utility tools
-            and services developed using in-house proprietary algorithms and
-            crowd-sourced information, including train PNR status and
-            confirmation predictions, train seat availability alerts, train
-            running status updates and delay predictions, flight status updates,
-            bus running status, pricing and availability alerts, deal discovery,
-            destination content, personalized recommendations, instant fare
-            alerts, and automated customer support services. Read our travel
-            stories where we cover everything – flight news, latest travel news,
-            Indian Railways reservation updates, COVID-19 travel guidelines and
-            restrictions and more. Let us help you plan your next vacation.
-            Explore our website today.
+            leading travel ecosystem for the 'next billion users'. 
           </p>
           <hr></hr>
           <p>
             Our vision is to become the most customer-centric travel company, by
-            offering the best customer experience to our users. Our focus on
-            travel utility and customer experience for travellers in the 'next
-            billion user' segment is driven by technology, cost-efficiency and
-            our culture of innovation has made us India's leading travel
-            ecosystem for the 'next billion users'. Our OTA platforms allow
-            travellers to book train tickets, flight tickets, bus tickets,
-            hotels and cabs, while providing travel utility tools and services
-            developed using in-house proprietary algorithms and crowd-sourced
-            information, including train PNR status and confirmation
-            predictions, train seat availability alerts, train running status
-            updates and delay predictions, flight status updates, bus running
-            status, pricing and availability alerts, deal discovery, destination
-            content, personalized recommendations, instant fare alerts, and
-            automated customer support services. Read our travel stories where
-            we cover everything – flight news, latest travel news, Indian
-            Railways reservation updates, COVID-19 travel guidelines and
-            restrictions and more. Let us help you plan your next vacation.
-            Explore our website today.
+            offering the best customer experience to our users.
           </p>
         </div>
       </div>

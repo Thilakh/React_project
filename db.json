@@ -159,6 +159,16 @@
       "id": "sara",
       "password": "2345",
       "email": "sara@gmail.com"
+    },
+    {
+      "id": "uegfu",
+      "password": "123",
+      "email": "gh@gmail.com"
+    },
+    {
+      "id": "s.rajendran",
+      "password": "sr1966",
+      "email": "raj@gmail.com"
     }
   ]
 }

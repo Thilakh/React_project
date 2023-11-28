@@ -22,6 +22,7 @@ import Homepage3 from "./Homepage3";
 import SyncAlt from "@mui/icons-material/SyncAlt";
 import { SyncAltRounded } from "@mui/icons-material";
 import Homepage4 from "./Homepage4";
+import { useNavigate } from "react-router-dom";
 
 const containerStyle = {
   backgroundImage: `url(${sky})`,
@@ -47,6 +48,13 @@ const Homepage = () => {
   const handleChange = (event) => {
     setfrom(event.target.value);
   };
+  let nav = useNavigate();
+  const tickets = () =>
+  {
+    let path = `/tickets`;
+    nav(path);
+
+  }
   return (
     <>
       <Top />
@@ -198,6 +206,7 @@ const Homepage = () => {
                 color: "black",
                 position: "absolute",
               }}
+              onClick={tickets}
             >
               Search
             </Button>

@@ -7,6 +7,7 @@ import { CardActionArea } from '@mui/material';
 import {Stack} from '@mui/material';
 import Top from './Top'
 import Image from "./img/Flight.jpg";
+import { Link } from 'react-router-dom';
 const containerStyle = {
   backgroundImage:`url(${Image})`,
   backgroundSize: 'cover',
@@ -34,7 +35,9 @@ export default function ActionAreaCard() {
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
+          <Link to='https://www.tripadvisor.in/HotelHighlight-s1-g297675-d13945956-Reviews-SR_Jungle_Resort-Coimbatore_Coimbatore_District_Tamil_Nadu.html'>
             Hotels
+          </Link>
           </Typography>
           <Typography variant="body2" color="text.secondary">
             Lizards are a widespread group of squamate reptiles, with over 6,000
@@ -53,7 +56,9 @@ export default function ActionAreaCard() {
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            Buses
+          <Link to='https://www.ybmtravels.in/'>
+            Bus
+          </Link>
           </Typography>
           <Typography variant="body2" color="text.secondary">
             Lizards are a widespread group of squamate reptiles, with over 6,000
@@ -73,7 +78,9 @@ export default function ActionAreaCard() {
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
+          <Link to='https://in.usembassy.gov/visas/'>
             Visa slot booking
+          </Link>
           </Typography>
           <Typography variant="body2" color="text.secondary">
             Lizards are a widespread group of squamate reptiles, with over 6,000
