@@ -28,25 +28,27 @@ const Tickets = () => {
                 <td>1</td>
                 <td>Mumbai</td>
                 <td>Chennai</td>
-                <td>British Airways</td>
+                <td>Indigo</td>
                 <td>23/11/2023</td>
-                <td>2.00pm</td>
+                <td>14:00</td>
             </tr>
             <hr></hr>
             <tr>
-                <td>2</td>
-                <td>srinivas</td>
-                <td>sivaprakash</td>
-                <td>thilak</td>
-                <td>sanjay</td>
+            <td>2</td>
+                <td>Mumbai</td>
+                <td>Chennai</td>
+                <td>Air Asia</td>
+                <td>23/11/2023</td>
+                <td>15:35</td>
             </tr>
             <hr></hr>
             <tr>
-                <td>3</td>
-                <td>srinivas</td>
-                <td>sivaprakash</td>
-                <td>thilak</td>
-                <td>sanjay</td>
+            <td>3</td>
+                <td>Mumbai</td>
+                <td>Chennai</td>
+                <td>Spicejet</td>
+                <td>23/11/2023</td>
+                <td>20:00</td>
             </tr>
         </table>
     </div>

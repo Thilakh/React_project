@@ -35,7 +35,7 @@ export default function ActionAreaCard() {
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-          <Link to='https://www.tripadvisor.in/HotelHighlight-s1-g297675-d13945956-Reviews-SR_Jungle_Resort-Coimbatore_Coimbatore_District_Tamil_Nadu.html'>
+          <Link to='/hotels'>
             Hotels
           </Link>
           </Typography>
